@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Appium Tests" parallel="false">
+    <test name="Android Tests">
+        <classes>
+<!--            <class name="android.LanguageChangeApkTest"/>-->
+            <class name="android.SignUpPartnerApkTest"/>
+            <class name="android.SignUpMemberApkTest"/>
+            <class name="android.ApplyBenefitAPKTest"/>
+        </classes>
+    </test>
+</suite>

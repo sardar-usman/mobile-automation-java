@@ -1,0 +1,164 @@
+{
+  "russianLang": [
+    {
+      "text1": "Изучите программу лояльности",
+      "text2": "Первая в мире программа лояльности для экспедиторов и трейдеров.",
+      "text3": "Новичок в WLP? ",
+      "text4": "Зарегистрироваться",
+      "text5": "Наслаждайтесь преимуществами",
+      "text6": "Доступ к глобальным поставщикам преимуществ и их доступным преимуществам.",
+      "text7": "Получить информацию о торговле",
+      "text8": "Максимизируйте свой торговый опыт с помощью универсальной торговой панели",
+      "text9": "Языки",
+      "text10": "Выберите предпочитаемый язык",
+      "text11": "Поиск языка здесь",
+      "text12": "ПОДАТЬ ЗАЯВЛЕНИЕ"
+    }
+  ],
+
+  "englishLang": [
+    {
+      "text1": "Explore the Loyalty Program",
+      "text2": "World first loyalty program for freight forwarders and traders.",
+      "text3": "New to WLP? ",
+      "text4": "Sign Up",
+      "text5": "Enjoy the benefits",
+      "text6": "Access to the global benefit providers and their available benefits.",
+      "text7": "Get Trade insight",
+      "text8": "Maximize your trade experience with \nall-in-one trade dashboard",
+      "text9": "Languages",
+      "text10": "Select your preferred Language",
+      "text11": "Search Language Here",
+      "text12": "Apply"
+
+    }
+  ],
+  "spanishLang": [
+    {
+      "text1": "Explora el Programa de Lealtad",
+      "text2": "El primer programa mundial de fidelización para transitarios y comerciantes.",
+      "text3": "¿Nuevo en WLP? ",
+      "text4": "Inscribirse",
+      "text5": "Disfruta de los beneficios",
+      "text6": "Acceso a los proveedores de beneficios globales y sus beneficios disponibles.",
+      "text7": "Obtener información comercial",
+      "text8": "Maximice su experiencia comercial con el panel comercial todo en uno",
+      "text9": "Idiomas",
+      "text10": "Seleccione su idioma preferido",
+      "text11": "Idioma de búsqueda aquí",
+      "text12": "Aplicar"
+    }
+  ],
+  "arabicLang": [
+    {
+      "text1": "احصل على نظرة ثاقبة حول التجارة",
+      "text2": "قم بزيادة تجربتك التجارية إلى الحد الأقصى باستخدام لوحة معلومات التجارة المتكاملة",
+      "text3": "جديد على WLP؟ ",
+      "text4": "اشتراك",
+      "text5": "استمتع بالمزايا",
+      "text6": "الوصول إلى مزودي المنافع العالمية والفوائد المتاحة لهم.",
+      "text7": "اكتشف برنامج الولاء",
+      "text8": "أول برنامج ولاء في العالم لوكلاء الشحن والتجار.",
+      "text9": "اللغات",
+      "text10": "اختر لغتك المفضلة",
+      "text11": "لغة البحث هنا",
+      "text12": "يتقدم"
+    }
+  ],
+  "frenchLang": [
+    {
+      "text1": "Découvrez le programme de fidélité",
+      "text2": "Premier programme de fidélité au monde pour les transitaires et les commerçants.",
+      "text3": "Nouveau sur WLP ? ",
+      "text4": "S'inscrire",
+      "text5": "Profitez des avantages",
+      "text6": "Accès aux fournisseurs de prestations mondiales et à leurs prestations disponibles.",
+      "text7": "Obtenez des informations commerciales",
+      "text8": "Maximisez votre expérience commerciale avec un tableau de bord commercial tout-en-un",
+      "text9": "Langues",
+      "text10": "Sélectionnez votre langue préférée",
+      "text11": "Rechercher la langue ici",
+      "text12": "APPLIQUER"
+    }
+  ],
+  "portugueseLang": [
+    {
+      "text1": "Conheça o Programa de Fidelidade",
+      "text2": "Primeiro programa de fidelidade do mundo para despachantes e comerciantes.",
+      "text3": "Novo no WLP? ",
+      "text4": "Inscrever-se",
+      "text5": "Aproveite os benefícios",
+      "text6": "Acesso aos provedores de benefícios globais e seus benefícios disponíveis.",
+      "text7": "Obtenha informações comerciais",
+      "text8": "Maximize sua experiência de negociação com painel de negociação tudo-em-um",
+      "text9": "línguas",
+      "text10": "Selecione seu idioma preferido",
+      "text11": "Idioma de pesquisa aqui",
+      "text12": "APLIQUE"
+    }
+  ],
+  "indonesianLang": [
+    {
+      "text1": "Jelajahi Program Loyalitas",
+      "text2": "Program loyalitas pertama di dunia untuk perusahaan ekspedisi dan pedagang.",
+      "text3": "Baru di WLP? ",
+      "text4": "Daftar",
+      "text5": "Nikmati manfaatnya",
+      "text6": "Akses ke penyedia manfaat global dan manfaat yang tersedia.",
+      "text7": "Dapatkan wawasan Perdagangan",
+      "text8": "Maksimalkan pengalaman perdagangan Anda dengan dasbor perdagangan all-in-one",
+      "text9": "Bahasa",
+      "text10": "Pilih Bahasa pilihan Anda",
+      "text11": "Cari Bahasa Disini",
+      "text12": "BERLAKU"
+    }
+  ],
+  "thaiLang": [
+    {
+      "text1": "สำรวจโปรแกรมความภักดี",
+      "text2": "โปรแกรมความภักดีโปรแกรมแรกของโลกสำหรับผู้ส่งสินค้าและผู้ค้า",
+      "text3": "ใหม่สำหรับ WLP? ",
+      "text4": "ลงชื่อ",
+      "text5": "เพลิดเพลินกับสิทธิประโยชน์",
+      "text6": "เข้าถึงผู้ให้บริการสิทธิประโยชน์ทั่วโลกและสิทธิประโยชน์ที่มีอยู่",
+      "text7": "รับข้อมูลเชิงลึกด้านการค้า",
+      "text8": "เพิ่มประสบการณ์การเทรดของคุณให้สูงสุดด้วยแดชบอร์ดการเทรดแบบออลอินวัน",
+      "text9": "ภาษา",
+      "text10": "เลือกภาษาที่คุณต้องการ",
+      "text11": "ค้นหาภาษาที่นี่",
+      "text12": "นำมาใช้"
+    }
+  ],
+  "koreanLang": [
+    {
+      "text1": "로열티 프로그램 살펴보기",
+      "text2": "화물 운송업체 및 거래업체를 위한 세계 최초의 로열티 프로그램입니다.",
+      "text3": "WLP가 처음이신가요? ",
+      "text4": "가입하기",
+      "text5": "혜택을 누리세요",
+      "text6": "글로벌 혜택 제공자 및 사용 가능한 혜택에 대한 액세스.",
+      "text7": "무역 통찰력 얻기",
+      "text8": "올인원 거래 대시보드로 거래 경험 극대화",
+      "text9": "언어",
+      "text10": "선호하는 언어 선택",
+      "text11": "여기에서 언어 검색",
+      "text12": "적용하다"
+    }
+  ],
+  "vietnameseLang": [
+    {
+      "text1": "Khám phá Chương trình khách hàng thân thiết",
+      "text2": "Chương trình khách hàng thân thiết đầu tiên trên thế giới dành cho các nhà giao nhận và thương nhân vận tải.",
+      "text3": "Bạn mới sử dụng WLP? ",
+      "text4": "Đăng ký",
+      "text5": "Tận hưởng những lợi ích",
+      "text6": "Truy cập vào các nhà cung cấp lợi ích toàn cầu và lợi ích có sẵn của họ.",
+      "text7": "Nhận thông tin chi tiết về giao dịch",
+      "text8": "Tối đa hóa trải nghiệm giao dịch của bạn với bảng điều khiển giao dịch tất cả trong một",
+      "text9": "Ngôn ngữ",
+      "text10": "Chọn ngôn ngữ ưa thích của bạn",
+      "text11": "Tìm kiếm ngôn ngữ ở đây",
+      "text12": "ỨNG DỤNG"
+    }
+  ]
+}
